@@ -1,0 +1,20 @@
+{
+    "title": "Variable Colors",
+    "name": "github-nextkillbot-variablecolors",
+    "description": "Basically your color defines your terminal, simple",
+    "version": "0.0.1",
+    "license": "MIT",
+    "author": "Killbot (https://github.com/nextkillbot)",
+    "homepage": "https://github.com/nextkillbot/VariableColors",
+    "engines": {
+        "brackets": ">=2.0.0"
+    },
+    "categories": "demo",
+    "keywords": [
+        "phcode", "theme", "demo"
+    ],
+    "theme": {
+        "file": "my-theme.less",
+        "dark": true
+    }
+}
