@@ -1,11 +1,11 @@
 {
-    "title": "Variable Colors",
-    "name": "github-nextkillbot-variablecolors",
-    "description": "Basically your color defines your terminal, simple",
-    "version": "0.0.1",
+    "title": "Title here (Can be anything)",
+    "name": "github-<Your username>-<Your repository name (lowercase)>",
+    "description": "Description here (Also can be anything)",
+    "version": "0.0.1 (Note: You strictly have to use this versioning scheme, delete this note if you're done editing)",
     "license": "MIT",
-    "author": "Killbot (https://github.com/nextkillbot)",
-    "homepage": "https://github.com/nextkillbot/VariableColors",
+    "author": "<Your display name or idk> (<Your account link, eg: https://github.com/nextkillbot>)",
+    "homepage": "It can be your custom-made website or even your own repository",
     "engines": {
         "brackets": ">=2.0.0"
     },
