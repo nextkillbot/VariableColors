@@ -17,3 +17,7 @@
 12) Wait until a bot shows up, and then just do what it says
 
 Note: Any problems? Just create a new issue and I'll give you potential solutions :)
+
+# What's so special about this theme?
+Well, it makes your text glow, similar to a neon sign or idk...<br>
+Also, any color can be used (Just avoid the dark ones) without modifying like every single thing just to suffer I guess?
